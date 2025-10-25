@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration Form</title>
+</head>
+<body>
+    <header>
+        <h1 align="center">Student Registration Form</h1>
+    </header>
+    <hr>
+    <section >
+        <form action="#" method="post" align="center">
+            <label for="name">Full Name: </label>
+            <input type="text" id="name" placeholder="Enter your full name "><br><br>
+             <label for="email">Email: </label>
+            <input type="email" id="email" placeholder="Enter valid email Address "><br><br>
+             <label for="password">Password: </label>
+            </label><input type="password" id="password" placeholder="Enter password " required>
+            <br><br>
+            <label>Gender:</label>
+            <label><input type="radio" name="gender" value="male">Male</label>
+            <label><input type="radio" name="gender" value="femal">Female</label>
+            <label><input type="radio" name="gender" value="other">Other</label><br><br>
+            <label for="course">Course:</label>
+            <select id="course" name="course" required>
+                <option value="">--Select--</option>
+                <option value="btech">B.Tech</option>
+                <option value="BCA">BCA</option>
+                <option value="msc">M.Sc</option>
+                <option value="bsc">B.Sc</option>
+            </select><br><br>
+            <label for="contact">Contact No.</label>
+            <input type="tel" id="contact" placeholder="Enter phone number" required><br><br>
+            <label for="address">Address: </label><br>
+            <textarea id="address" rows="3" cols="30" placeholder="Enter your address"></textarea><br><br>
+            <input type="submit" value="Register"> 
+            <input type="reset" value="Clear"> 
+        </form>
+        <footer >
+            <hr><p align="center">© 2025 Student Registration Portal</p>
+        </footer>
+    </section>
+    
+</body>
+</html>
