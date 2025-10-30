@@ -1,0 +1,63 @@
+
+<html>
+<head>
+  <title>Course Curriculum</title>
+</head>
+<body>  
+<h2>Course Curriculum</h2>
+<p>Welcome to the <b>Course Curriculum</b>.</p>
+<h2>Subjects</h2>   
+<ol>
+<li>Mathematics I</li>
+<li>Computer Fundamentals</li>
+<li>Programming in C</li>
+<li>Electronics Basics</li>
+</ol>
+<h2>Programming Languages </h2>
+<ul>
+<li>C</li>
+<li>Java</li>
+<li>Python</li>
+<li>JavaScript</li>
+</ul>
+
+<h2>Course Description</h2>
+<dl>
+<dt><b>C Programming</b></dt>
+<dd>Learn basics of C language including loops, arrays, and functions.</dd>
+</dl>
+<h2>Course Modules</h2>
+<ol>
+<li>Basics
+<ul>
+<li>Introduction</li>
+<li>Body</li>
+</ul>
+</li>
+<li>Programming
+<ul>
+<li>Variables & Data Types</li>
+<li>Control Statements</li>
+</ul>
+</li>
+</ol>
+<h2>Project Work</h2>
+<ul>
+<li>Web Development
+<ol>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</li></ul>
+<ul>
+<li>Database
+<ol>
+<li>My SQL</li>
+<li>React JS</li>
+</ol>
+</li>
+</ul>
+
+
+</body>
+</html>
